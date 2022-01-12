@@ -1,0 +1,14 @@
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.0\MoviesApi.deps.json
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.0\MoviesApi.runtimeconfig.json
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.0\MoviesApi.runtimeconfig.dev.json
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.0\MoviesApi.dll
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.0\MoviesApi.pdb
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.0\MoviesApi.csproj.AssemblyReference.cache
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.0\MoviesApi.AssemblyInfoInputs.cache
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.0\MoviesApi.AssemblyInfo.cs
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.0\MoviesApi.csproj.CoreCompileInputs.cache
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.0\MoviesApi.dll
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.0\MoviesApi.pdb
+C:\Job Applications\fwa-t-e-master\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.0\MoviesApi.genruntimeconfig.cache
